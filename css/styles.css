@@ -124,10 +124,12 @@ body {
 }
 .title-button:hover,
 .title-button:focus {
-	color: #404bbf;
+	background-color: #404BBF;
+	color: #ffffff;
 }
 .title-button:active {
-	color: #404bbf;
+	background-color: #404BBF;
+	color: #ffffff;
 }
 .skills-list {
 	color: #2e2f42;
